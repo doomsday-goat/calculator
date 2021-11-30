@@ -7,5 +7,7 @@ public class add {
 	public double sum(double a, double b) {
 		return a + b;
 	}
-	
+	public float sum(float a, float b) {
+		return a + b;
+	}
 }
